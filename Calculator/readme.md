@@ -15,3 +15,4 @@ It is a simple scientific calculator.
 
 ## Visit Website
 
+https://khushi-purwar.github.io/Developer-Days/Calculator/
