@@ -1,11 +1,15 @@
 # Counter App
 
 ## About the Project
-It is a simple Counter App.
+It is a simple Counter App. It has three buttons.
 
 When user clicks on <b><i>increment</i></b> button, current value will be incremented by 1.
+
 When user clicks on <b><i>decrement</i></b> button, current value will be decremented by 1.
+
 When user clicks on <b><i>reset</i></b> button, current value will be reset to 0.
+
+If the value is greater than 0, then color of the value will be <i>"green"</i>. If the value is less than 0, then color of the value will be <i>"red"</i>. Else color of the value will be <i>"black"</i>.
 
 ## Tech Stacks Used
 
