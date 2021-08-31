@@ -29,4 +29,5 @@ dec_btn.addEventListener('click', ()=>{
 re_btn.addEventListener('click', ()=>{
     val = 0;
     input_val.value = val;
+    input_val.style.color = "black";
 })
