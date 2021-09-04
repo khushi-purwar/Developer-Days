@@ -113,16 +113,7 @@ h1{
                 transform: scale(1.02);
 }
 
-/* @media screen  and (max-width:1190px){
-    .container{
-        width: 60%;
-        height: 55vh;
-        padding: 10px;
-        border-radius: 8px;
-        box-shadow: 12px 12px 20px #cbced1,
-                    -12px -12px 20px #ffffff;
-    }
-} */
+
 
 @media screen  and (max-width:885px){
     .container{
