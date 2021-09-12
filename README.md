@@ -20,3 +20,10 @@ I choose Web Developmet Track.
    
 2. [Portfolio](https://khushipurwar14-portfolio.vercel.app/) : It is a simple portfolio website built using ReactJs and Tailwind CSS.
 
+## WEEK-2 Challenge
+
+1. Create a simple todo application using Node.js
+
+## WEEK-2 Solution
+
+1. [Todo App](https://dev-todo-app.herokuapp.com/) : It is a simple todo application built using MERN stack. It has the functionality to add a new task, delete the task and uncheck and check the task.
