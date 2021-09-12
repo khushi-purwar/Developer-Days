@@ -20,3 +20,6 @@ I choose Web Developmet Track.
    
 2. [Portfolio](https://khushipurwar14-portfolio.vercel.app/) : It is a simple portfolio website built using ReactJs and Tailwind CSS.
 
+## WEEK-2 Challenge
+
+1. Create a simple todo application using Node.js
