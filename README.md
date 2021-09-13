@@ -30,7 +30,7 @@ I choose Web Developmet Track.
 
 ## SAWO WEEK CHALLENGE
 
-1. Create any porject with SAWO Labs Integration
+1. Create any project with SAWO Labs Integration
 
 ### SAWO WEEK SOLUTION
 
