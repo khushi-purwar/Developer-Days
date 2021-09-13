@@ -31,3 +31,7 @@ Click on the `Open Blog`, UI looks like:
 ## Live Demo
 
 <img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/demo.gif?raw=true" />
+
+## Visit Website
+
+https://blogapplication.vercel.app/
