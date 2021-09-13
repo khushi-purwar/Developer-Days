@@ -5,11 +5,16 @@ Blog Application is an application where user can add a new blog, edit it, delet
 
 Application uses LocalStorage, the localStorage object stores data with no expiration date. The data will not be deleted when the browser is closed, and will be available when the user comes again.
 
+Application also includes a login page, which is created using [SAWO LABS](https://sawolabs.com/).
+
 ## Stacks Used
 * HTML & CSS
 * Bootstrap - A CSS Framework
 * JavaScript -> LocalStorage
 
+## Flow of the Application
+
+Landing page -> Login page -> Blog Page
 
 ## ScreenShot
 
