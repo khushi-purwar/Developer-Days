@@ -10,27 +10,30 @@ Application uses LocalStorage, the localStorage object stores data with no expir
 * Bootstrap - A CSS Framework
 * JavaScript -> LocalStorage
 
-## Use of Project
-
-To understand the concept of the localstorage, how localstorage persist the data, even the tab is closed or user refersh the page.
 
 ## ScreenShot
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss1.png?raw=true" />
+Landing Page
+
+<img src="https://github.com/khushi-purwar/Developer-Days/blob/master/Blog%20Application/Screenshots/ss1.png" />
+
+Login Page
+
+<img src="https://github.com/khushi-purwar/Developer-Days/blob/master/Blog%20Application/Screenshots/ss2.png" />
+
+Blog Page (Main Page)
+
+<img src="https://github.com/khushi-purwar/Developer-Days/blob/master/Blog%20Application/Screenshots/ss3.png" />
 
 Click on the `Add New`, UI looks like:
 
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss2.png?raw=true" />
+<img src="https://github.com/khushi-purwar/Developer-Days/blob/master/Blog%20Application/Screenshots/ss4.png" />
 
 Click on the `Open Blog`, UI looks like:
 
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss3.png?raw=true" />
-
-## Live Demo
-
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/demo.gif?raw=true" />
+<img src="https://github.com/khushi-purwar/Developer-Days/blob/master/Blog%20Application/Screenshots/ss5.png" />
 
 ## Visit Website
 
