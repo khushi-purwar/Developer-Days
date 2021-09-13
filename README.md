@@ -27,3 +27,11 @@ I choose Web Developmet Track.
 ## WEEK-2 Solution
 
 1. [Todo App](https://dev-todo-app.herokuapp.com/) : It is a simple todo application built using MERN stack. It has the functionality to add a new task, delete the task and uncheck and check the task.
+
+## SAWO WEEK CHALLENGE
+
+1. Create any porject with SAWO Labs Integration
+
+### SAWO WEEK SOLUTION
+
+1. [Blog App](https://blogapplication.vercel.app/) : Application built using HTML, CSS and JS. It is an application where user can add a new blog, edit it, delete it as well as view other blogs and make changes in them. Application uses LocalStorage, therefore blog will not be deleted when the browser is closed. Application also includes a login page which is made using `SAWO LABS`
