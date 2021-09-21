@@ -38,8 +38,8 @@ I choose Web Developmet Track.
 
 ## WEEK-3 Challenge
 
-1. Create a simple submission form using Node.js and database
+1. Create and link a assignment submission form with a database(either relational or non realtional)
 
 ## WEEK-3 Solution
 
-1. [Submission Form](https://assignment-submission-form.herokuapp.com/) : A simple submission form with basic candidate details. Store the candidate details in the database along with assignment pdf.
+1. [Submission Form](https://assignment-submission-form.herokuapp.com/) : The main task is to take the details of candidate with assignment submission of the candidate which may be in the form of link/pdf and after taking the details, it need to be stored in the database.
