@@ -3,7 +3,7 @@
 
 ## About the Project
 
-A simple submission form with basic candidate details. Store the candidate details in the database along with assignment pdf
+A simple submission form with basic candidate details. The main task is to take the details of candidate with assignment submission of the candidate which may be in the form of link/pdf and after taking the details, it need to be stored in the database.
 
 
 ## Tech Stack Used
