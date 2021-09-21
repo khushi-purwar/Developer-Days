@@ -1,13 +1,9 @@
 
-# Blog Application
+# Submission Form
 
-This is a Blog Application with CRUD and Authentication Functionalities.
+## About the Project
 
-CRUD : CREATE, READ(SHOW), UPDATE & DELETE
-
-Authentication with Passport.js
-
-
+A simple submission form with basic candidate details. Store the candidate details in the database along with assignment pdf
 
 
 ## Tech Stack Used
@@ -18,29 +14,9 @@ Authentication with Passport.js
 
 **DataBase:** MongoDB
 
+## Live Link
 
-  
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/khushi-purwar/Blog-Application.git
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
-
-
+https://assignment-submission-form.herokuapp.com/
 
 ## Authors
 
