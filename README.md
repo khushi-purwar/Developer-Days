@@ -35,3 +35,11 @@ I choose Web Developmet Track.
 ### SAWO WEEK SOLUTION
 
 1. [Blog App](https://blogapplication.vercel.app/) : Application built using HTML, CSS and JS. It is an application where user can add a new blog, edit it, delete it as well as view other blogs and make changes in them. Application uses LocalStorage, therefore blog will not be deleted when the browser is closed. Application also includes a login page which is made using `SAWO LABS`
+
+## WEEK-3 Challenge
+
+1. Create and link a assignment submission form with a database(either relational or non realtional)
+
+## WEEK-3 Solution
+
+1. [Submission Form](https://assignment-submission-form.herokuapp.com/) : The main task is to take the details of candidate with assignment submission of the candidate which may be in the form of link/pdf and after taking the details, it need to be stored in the database.
